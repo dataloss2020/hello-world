@@ -1,3 +1,3 @@
 # hello-world
-github tutoril repo
+github tutoril rep
 sample edit of new branch
